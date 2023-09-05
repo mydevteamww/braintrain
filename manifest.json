@@ -3,10 +3,10 @@
   "description": "Bed Rock Entertainments",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Gold - Digger Classic",
+  "name": "Brain Trainer By - Bed Rock Entertainments",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Gold - Digger Classic",
+  "short_name": "Brain Trainer By - Bed Rock Entertainments",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,9 +48,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Gold Digger",
-      "url": "https://lutzroeder.github.io/digger/",
-      "description": "Play Gold Digger Classic"
+      "name": "Brain Trainer By - Bed Rock Entertainments",
+      "url": "https://mydevteamww.github.io/braintrain/",
+      "description": "Play Brain Trainer By - Bed Rock Entertainments"
     }
   ],
   "display_override": [
