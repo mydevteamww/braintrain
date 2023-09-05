@@ -3,10 +3,10 @@
   "description": "Bed Rock Entertainments",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Brain Trainer By - Bed Rock Entertainments",
+  "name": "Brain - Trainer",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Brain Trainer By - Bed Rock Entertainments",
+  "short_name": "Brain Trainer",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,9 +48,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Brain Trainer By - Bed Rock Entertainments",
+      "name": "Brain - Trainer",
       "url": "https://mydevteamww.github.io/braintrain/",
-      "description": "Play Brain Trainer By - Bed Rock Entertainments"
+      "description": "Play Brain - Trainer"
     }
   ],
   "display_override": [
