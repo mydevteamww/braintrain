@@ -1,17 +1,27 @@
 {
   "background_color": "#ffffff",
-  "description": "Bed Rock Entertainments",
+  "description": "Game By Bed Rock Entertainments",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Gold - Digger Classic",
+  "name": "Brain - Trainer",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Gold - Digger Classic",
+  "short_name": "Brain - Trainer",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
     "games"
   ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [
+    {
+      "name": "Brain - Trainer",
+      "url": "",
+      "description": ""
+    }
+  ]
+}
   "screenshots": [
     {
       "src": "images/screenshot1.png",
@@ -48,9 +58,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Gold Digger",
-      "url": "https://lutzroeder.github.io/digger/",
-      "description": "Play Gold Digger Classic"
+      "name": "Brain - Trainer",
+      "url": "https://mydevteamww.github.io/braintrain/",
+      "description": "Brain - Trainer"
     }
   ],
   "display_override": [
