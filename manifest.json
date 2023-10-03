@@ -1,12 +1,13 @@
 {
   "background_color": "#ffffff",
-  "description": "Game By Bed Rock Entertainments",
+  "description": "Game By Game Snacks
+",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Brain - Trainer",
+  "name": "Brain:Trainer",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Brain - Trainer",
+  "short_name": "Brain:Trainer",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +49,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Brain - Trainer",
+      "name": "Brain:Trainer",
       "url": "",
       "description": ""
     }
