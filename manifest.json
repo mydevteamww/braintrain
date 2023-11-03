@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Game By Game Snacks",
+  "description": "Game By Echo Logic Interactive",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Brain:Trainer",
+  "name": "Brain:Trainer By Echo Logic Interactive",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Brain:Trainer",
+  "short_name": "Brain:Trainer By Echo Logic Interactive",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Brain:Trainer",
+      "name": "Brain:Trainer By Echo Logic Interactive",
       "url": "",
       "description": ""
     }
