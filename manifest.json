@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Game By Echo Logic Interactive",
+  "description": "Game By CtrlShiftCreate",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Brain:Trainer By Echo Logic Interactive",
+  "name": "Brain-Trainer",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Brain:Trainer By Echo Logic Interactive",
+  "short_name": "Brain-Trainer",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Brain:Trainer By Echo Logic Interactive",
+      "name": "Brain-Trainer",
       "url": "",
       "description": ""
     }
